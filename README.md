@@ -1,2 +1,2 @@
-# Dornitory
+# Dormitory
 Practical_Project
